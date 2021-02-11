@@ -1,2 +1,2 @@
-# ig-template-hl7
-Base template for HL7-published IGs.  Foundation for family-specific templates
+# ig-template-hl7ch
+Base template for HL7ch published IGs which are balloted.
